@@ -4,7 +4,7 @@ ws-server
 =========
 2.进入ws-server目录
 =========
-3.npm install ws
+3.npm install ws（如果想用最新版可跳过安装）
 =========
 4.修改ws_server.js host和port
 =========
