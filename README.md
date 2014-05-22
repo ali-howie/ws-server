@@ -11,6 +11,6 @@ ws-server
 5.启动服务器 node ws_server.js
 =========
 websocket 实时传输数据 cocos2dx 
-======
+=========
 关闭服务器 发送 {"exit":true}
-
+=========
