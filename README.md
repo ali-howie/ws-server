@@ -14,3 +14,5 @@ websocket 实时传输数据 cocos2dx
 =========
 关闭服务器 发送 {"exit":true}
 =========
+
+ok
